@@ -1,2 +1,2 @@
-# Election-Anaylsis
+# Election-Analysis
 election analysis 
