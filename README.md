@@ -16,8 +16,10 @@ A Colorado Board of Elections employee gave the following tasks to complete the 
 ## Summary 
 
 The analysis of the election show that
+
 -------------------------
 Total Votes: 369,711
+
 -------------------------
 Charles Casper Stockham: 23.0% (85,213)
 
@@ -47,7 +49,9 @@ The analysis of voter turnout in counties concluded:
 Election Results
 
 -------------------------
+
 Total Votes: 369,711
+
 -------------------------
 
 County Votes: 
@@ -56,15 +60,19 @@ Denver: 82.8% (306,055)
 Arapahoe: 6.7% (24,801)
 
 ------------------------
+
 Largest County Turnout: Denver
+
 ------------------------
 Charles Casper Stockham: 23.0% (85,213)
 Diana DeGette: 73.8% (272,892)
 Raymon Anthony Doane: 3.1% (11,606)
+
 -------------------------
 Winner: Diana DeGette
 Winning Vote Count: 272,892
 Winning Percentage: 73.8%
+
 -------------------------
 
 
